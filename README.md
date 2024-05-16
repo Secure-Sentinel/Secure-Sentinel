@@ -20,19 +20,26 @@
  
 ---
 
-<h2 align="center">Our Experience</h3>
-<ul>
-  <li>Aptos</li>
-  <li>Dymension</li>
-  <li>Sui</li>
-  <li>Massa</li>
-  <li>Avail</li>
-  <li>Dusk</li>
-  <li>Stride</li>
-  <li>Nibiru</li>
-  <li>Quasar</li>
-  <li>Sacrophagus</li>
-</ul>
+<h3 align="center">Our Experience</h3>
+<table style="width: 100%;">
+  <tr>
+    <td>Aptos</td>
+    <td>Dymension</td>
+    <td>Avail</td>
+    <td>Massa</td>
+    <td>Lumoz</td>
+    <td>Manta</td>
+    <td>Stride</td>
+    <td>Nibiru</td>
+    <td>Sui</td>
+    <td>Dusk</td>
+    <td>Quasar</td>
+    <td>Sarcophagus</td>
+    <td>Erbie</td>
+    <td>Mantra</td>
+  </tr>
+</table>
+
 
 
 
