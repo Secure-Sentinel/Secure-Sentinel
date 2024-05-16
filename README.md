@@ -20,7 +20,7 @@
  
 ---
 
-<h3 align="center">Our Experience</h3>
+<h2 align="center">Our Experience</h3>
 <table style="width: 100%;">
   <tr>
     <td>Aptos</td>
