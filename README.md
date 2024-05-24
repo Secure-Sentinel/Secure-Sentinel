@@ -17,7 +17,44 @@
   <li><strong>Cultivate a culture of transparency, integrity, and trust</strong> within blockchain communities.</li>
 </ul>
 
- 
+---
+
+<h2 align="center">Server Specifications</h2>
+<table align="center">
+  <tr>
+    <td><strong>Processor</strong></td>
+    <td>AMD Ryzen™ 5 3600</td>
+  </tr>
+  <tr>
+    <td><strong>RAM</strong></td>
+    <td>64 GB DDR4</td>
+  </tr>
+  <tr>
+    <td><strong>Disk</strong></td>
+    <td>2 x 512 GB NVMe SSD (software-RAID 1)</td>
+  </tr>
+  <tr>
+    <td><strong>Connection</strong></td>
+    <td>1 GBit/s port</td>
+  </tr>
+  <tr>
+    <td><strong>Bandwidth guaranteed</strong></td>
+    <td>1 GBit/s</td>
+  </tr>
+  <tr>
+    <td><strong>Backup Space</strong></td>
+    <td>100 GB</td>
+  </tr>
+  <tr>
+    <td><strong>Traffic</strong></td>
+    <td>Unlimited *</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Finland</td>
+  </tr>
+</table>
+
 ---
 
 <h2 align="center">Our Experience</h3>
@@ -39,7 +76,6 @@
     <td>Mantra</td>
   </tr>
 </table>
-
 
 
 
