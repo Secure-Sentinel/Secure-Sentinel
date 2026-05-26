@@ -65,3 +65,37 @@
 <h2 align="left">📈 Current Focus</h2>
 
 ```text
+🔭  Deepening Python, statistics refresh, and end-to-end ML workflows
+🌱  Learning   :  Deep Learning fundamentals, Generative AI (LLMs, RAG, fine-tuning)
+🎯  Next steps :  AWS Cloud Practitioner certification, first ML deployment project
+💬  Ask me     :  SQL optimization, BI architecture, dashboard design
+🤝  Looking for:  Open-source data projects, AI/ML collaboration opportunities
+```
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Secure-Sentinel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secure-Sentinel&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Secure-Sentinel&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/berk-yıldırım-924287244/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Secure-Sentinel">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center"><i>"The journey of a thousand miles begins with a single query."</i></p>
